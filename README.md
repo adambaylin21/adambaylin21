@@ -1,6 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=200&section=header&text=Ph%E1%BA%A1m%20V%C4%83n%20H%E1%BA%A3i&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Automation%20Engineer%20%C2%B7%20Tooling%20%26%20Extensions&descAlignY=58&descSize=18" width="100%" alt="Phạm Văn Hải" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/adambaylin21/adambaylin21/main/assets/header.svg" alt="Phạm Văn Hải — Automation Engineer · Tooling & Extensions" width="880"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/adambaylin21/adambaylin21/main/assets/now.svg" alt="now" width="720"/>
+</p>
+
+<br />
 
 <a href="https://github.com/adambaylin21?tab=followers"><img src="https://img.shields.io/github/followers/adambaylin21?label=Followers&style=for-the-badge&color=00c6ff&labelColor=0f2027" alt="Followers" /></a>
 <img src="https://komarev.com/ghpvc/?username=adambaylin21&style=for-the-badge&color=00c6ff&label=PROFILE+VIEWS" alt="Profile views" />
@@ -151,29 +159,6 @@ Developer-focused tools, desktop builds, and low-level configurations — from s
 
 ---
 
-## 📈 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=adambaylin21&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00C6FF&icon_color=00C6FF" alt="GitHub stats" />
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adambaylin21&theme=github_dark" alt="Top languages" />
-
-<br />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=adambaylin21&theme=tokyonight&hide_border=true&background=0D1117&ring=00C6FF&fire=00C6FF&currStreakLabel=00C6FF" alt="Streak" />
-
-<br />
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adambaylin21&theme=github_dark" alt="Contribution profile" />
-
-<br />
-
-<img width="100%" src="https://ghchart.rshah.org/00c6ff/adambaylin21" alt="Contribution chart" />
-
-</div>
-
----
-
 ## 🤝 Let's Connect
 
 <div align="center">
@@ -188,5 +173,3 @@ I'm always open to collaborating on automation tooling, browser extensions, or a
 <em>⭐ If any tool here saved you time, a star goes a long way.</em>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:2c5364,100:0f2027&height=120&section=footer" width="100%" alt="footer" />
